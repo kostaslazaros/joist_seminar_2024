@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kostas/prj/joist_seminar_2023/mlruns/1/cdccff5bbac44ec5adf0c044ef1351bb/artifacts
+end_time: 1699385580384
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: cdccff5bbac44ec5adf0c044ef1351bb
+run_name: K-Modes Clustering
+run_uuid: cdccff5bbac44ec5adf0c044ef1351bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699385577175
+status: 3
+tags: []
+user_id: kostas

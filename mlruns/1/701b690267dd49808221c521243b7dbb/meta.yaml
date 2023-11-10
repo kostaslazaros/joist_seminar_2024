@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kostas/prj/joist_seminar_2023/mlruns/1/701b690267dd49808221c521243b7dbb/artifacts
+end_time: 1699385452165
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 701b690267dd49808221c521243b7dbb
+run_name: Agglomerative Clustering
+run_uuid: 701b690267dd49808221c521243b7dbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699385449523
+status: 3
+tags: []
+user_id: kostas

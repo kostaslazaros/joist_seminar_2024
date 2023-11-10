@@ -1,0 +1,8 @@
+channels:
+- conda-forge
+dependencies:
+- pip<=23.3.1
+- pip:
+  - mlflow
+  - pycaret==3.1.0
+name: heart_fail-env
