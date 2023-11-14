@@ -51,3 +51,11 @@ To use, follow the steps below:
   ```
   code .
   ```
+
+# The datasets used for this seminar can be found here:
+
+[UCI heart failure data](https://archive.ics.uci.edu/dataset/45/heart+disease)
+
+[Medical transcriptions data](https://www.kaggle.com/datasets/tboyle10/medicaltranscriptions)
+
+[SARS-COV-2 Ct-scan data](https://www.kaggle.com/datasets/plameneduardo/sarscov2-ctscan-dataset)
