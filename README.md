@@ -1,6 +1,6 @@
 # JOIST "Artificial Intelligence in medical data & applications using Python" workshop 2023 source code
 
-This is the source code for the JOIT's workshop  "Artificial Intelligence in medical data & applications using Python" 2023 
+This is the source code for the JOIST's workshop  "Artificial Intelligence in medical data & applications using Python" 2023 
 
 To use, follow the steps below:
 
