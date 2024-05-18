@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kostas/prj/joist_seminar_2023/mlruns/1/1e5532887e204dc2adfeaa770c48b7d0/artifacts
+end_time: 1700836730003
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 1e5532887e204dc2adfeaa770c48b7d0
+run_name: K-Means Clustering
+run_uuid: 1e5532887e204dc2adfeaa770c48b7d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700836725068
+status: 3
+tags: []
+user_id: kostas

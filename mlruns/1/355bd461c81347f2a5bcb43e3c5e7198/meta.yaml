@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kostas/prj/joist_seminar_2023/mlruns/1/355bd461c81347f2a5bcb43e3c5e7198/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 355bd461c81347f2a5bcb43e3c5e7198
+run_name: Session Initialized dfb0
+run_uuid: 355bd461c81347f2a5bcb43e3c5e7198
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700836723128
+status: 1
+tags: []
+user_id: kostas
