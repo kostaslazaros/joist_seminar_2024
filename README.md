@@ -1,6 +1,6 @@
-# Cell annotation with decoupleR tutorial
+# JOIST "Artificial Intelligence in medical data & applications using Python" workshop 2023 source code
 
-This is a tutorial that can be used automatically annotate single-cell RNA-seq data by cell-type using decoupleR's python implementation.
+This is the source code for the JOIST's workshop  "Artificial Intelligence in medical data & applications using Python" 2023 
 
 To use, follow the steps below:
 
