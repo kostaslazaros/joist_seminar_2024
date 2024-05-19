@@ -1,2 +1,3 @@
 pycaret[full]
 ucimlrepo
+palettable
